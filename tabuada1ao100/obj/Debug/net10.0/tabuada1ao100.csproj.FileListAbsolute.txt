@@ -1,0 +1,14 @@
+C:\Users\sandr\OneDrive\Área de Trabalho\Brenda\SENAI\tabuada1ao100\bin\Debug\net10.0\tabuada1ao100.exe
+C:\Users\sandr\OneDrive\Área de Trabalho\Brenda\SENAI\tabuada1ao100\bin\Debug\net10.0\tabuada1ao100.deps.json
+C:\Users\sandr\OneDrive\Área de Trabalho\Brenda\SENAI\tabuada1ao100\bin\Debug\net10.0\tabuada1ao100.runtimeconfig.json
+C:\Users\sandr\OneDrive\Área de Trabalho\Brenda\SENAI\tabuada1ao100\bin\Debug\net10.0\tabuada1ao100.dll
+C:\Users\sandr\OneDrive\Área de Trabalho\Brenda\SENAI\tabuada1ao100\bin\Debug\net10.0\tabuada1ao100.pdb
+C:\Users\sandr\OneDrive\Área de Trabalho\Brenda\SENAI\tabuada1ao100\obj\Debug\net10.0\tabuada1ao100.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sandr\OneDrive\Área de Trabalho\Brenda\SENAI\tabuada1ao100\obj\Debug\net10.0\tabuada1ao100.AssemblyInfoInputs.cache
+C:\Users\sandr\OneDrive\Área de Trabalho\Brenda\SENAI\tabuada1ao100\obj\Debug\net10.0\tabuada1ao100.AssemblyInfo.cs
+C:\Users\sandr\OneDrive\Área de Trabalho\Brenda\SENAI\tabuada1ao100\obj\Debug\net10.0\tabuada1ao100.csproj.CoreCompileInputs.cache
+C:\Users\sandr\OneDrive\Área de Trabalho\Brenda\SENAI\tabuada1ao100\obj\Debug\net10.0\tabuada1ao100.dll
+C:\Users\sandr\OneDrive\Área de Trabalho\Brenda\SENAI\tabuada1ao100\obj\Debug\net10.0\refint\tabuada1ao100.dll
+C:\Users\sandr\OneDrive\Área de Trabalho\Brenda\SENAI\tabuada1ao100\obj\Debug\net10.0\tabuada1ao100.pdb
+C:\Users\sandr\OneDrive\Área de Trabalho\Brenda\SENAI\tabuada1ao100\obj\Debug\net10.0\tabuada1ao100.genruntimeconfig.cache
+C:\Users\sandr\OneDrive\Área de Trabalho\Brenda\SENAI\tabuada1ao100\obj\Debug\net10.0\ref\tabuada1ao100.dll

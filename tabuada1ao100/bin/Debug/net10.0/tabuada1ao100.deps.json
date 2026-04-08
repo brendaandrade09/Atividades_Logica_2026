@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "tabuada1ao100/1.0.0": {
+        "runtime": {
+          "tabuada1ao100.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "tabuada1ao100/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
