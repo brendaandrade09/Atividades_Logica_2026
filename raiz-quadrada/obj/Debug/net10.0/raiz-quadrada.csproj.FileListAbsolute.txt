@@ -1,0 +1,14 @@
+C:\Users\dev\Desktop\aprendendocsharp\raiz-quadrada\bin\Debug\net10.0\raiz-quadrada.exe
+C:\Users\dev\Desktop\aprendendocsharp\raiz-quadrada\bin\Debug\net10.0\raiz-quadrada.deps.json
+C:\Users\dev\Desktop\aprendendocsharp\raiz-quadrada\bin\Debug\net10.0\raiz-quadrada.runtimeconfig.json
+C:\Users\dev\Desktop\aprendendocsharp\raiz-quadrada\bin\Debug\net10.0\raiz-quadrada.dll
+C:\Users\dev\Desktop\aprendendocsharp\raiz-quadrada\bin\Debug\net10.0\raiz-quadrada.pdb
+C:\Users\dev\Desktop\aprendendocsharp\raiz-quadrada\obj\Debug\net10.0\raiz-quadrada.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dev\Desktop\aprendendocsharp\raiz-quadrada\obj\Debug\net10.0\raiz-quadrada.AssemblyInfoInputs.cache
+C:\Users\dev\Desktop\aprendendocsharp\raiz-quadrada\obj\Debug\net10.0\raiz-quadrada.AssemblyInfo.cs
+C:\Users\dev\Desktop\aprendendocsharp\raiz-quadrada\obj\Debug\net10.0\raiz-quadrada.csproj.CoreCompileInputs.cache
+C:\Users\dev\Desktop\aprendendocsharp\raiz-quadrada\obj\Debug\net10.0\raiz-quadrada.dll
+C:\Users\dev\Desktop\aprendendocsharp\raiz-quadrada\obj\Debug\net10.0\refint\raiz-quadrada.dll
+C:\Users\dev\Desktop\aprendendocsharp\raiz-quadrada\obj\Debug\net10.0\raiz-quadrada.pdb
+C:\Users\dev\Desktop\aprendendocsharp\raiz-quadrada\obj\Debug\net10.0\raiz-quadrada.genruntimeconfig.cache
+C:\Users\dev\Desktop\aprendendocsharp\raiz-quadrada\obj\Debug\net10.0\ref\raiz-quadrada.dll
