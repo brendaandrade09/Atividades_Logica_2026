@@ -1,0 +1,14 @@
+C:\Users\sandr\OneDrive\Área de Trabalho\Brenda\SENAI\calculadora-imc\obj\Debug\net10.0\calculadora-imc.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sandr\OneDrive\Área de Trabalho\Brenda\SENAI\calculadora-imc\obj\Debug\net10.0\calculadora-imc.AssemblyInfoInputs.cache
+C:\Users\sandr\OneDrive\Área de Trabalho\Brenda\SENAI\calculadora-imc\obj\Debug\net10.0\calculadora-imc.AssemblyInfo.cs
+C:\Users\sandr\OneDrive\Área de Trabalho\Brenda\SENAI\calculadora-imc\obj\Debug\net10.0\calculadora-imc.csproj.CoreCompileInputs.cache
+C:\Users\sandr\OneDrive\Área de Trabalho\Brenda\SENAI\calculadora-imc\bin\Debug\net10.0\calculadora-imc.exe
+C:\Users\sandr\OneDrive\Área de Trabalho\Brenda\SENAI\calculadora-imc\bin\Debug\net10.0\calculadora-imc.deps.json
+C:\Users\sandr\OneDrive\Área de Trabalho\Brenda\SENAI\calculadora-imc\bin\Debug\net10.0\calculadora-imc.runtimeconfig.json
+C:\Users\sandr\OneDrive\Área de Trabalho\Brenda\SENAI\calculadora-imc\bin\Debug\net10.0\calculadora-imc.dll
+C:\Users\sandr\OneDrive\Área de Trabalho\Brenda\SENAI\calculadora-imc\bin\Debug\net10.0\calculadora-imc.pdb
+C:\Users\sandr\OneDrive\Área de Trabalho\Brenda\SENAI\calculadora-imc\obj\Debug\net10.0\calculadora-imc.dll
+C:\Users\sandr\OneDrive\Área de Trabalho\Brenda\SENAI\calculadora-imc\obj\Debug\net10.0\refint\calculadora-imc.dll
+C:\Users\sandr\OneDrive\Área de Trabalho\Brenda\SENAI\calculadora-imc\obj\Debug\net10.0\calculadora-imc.pdb
+C:\Users\sandr\OneDrive\Área de Trabalho\Brenda\SENAI\calculadora-imc\obj\Debug\net10.0\calculadora-imc.genruntimeconfig.cache
+C:\Users\sandr\OneDrive\Área de Trabalho\Brenda\SENAI\calculadora-imc\obj\Debug\net10.0\ref\calculadora-imc.dll
