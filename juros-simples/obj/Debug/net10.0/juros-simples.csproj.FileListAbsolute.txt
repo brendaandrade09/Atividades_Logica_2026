@@ -1,0 +1,14 @@
+C:\Users\sandr\OneDrive\Área de Trabalho\Brenda\SENAI\juros-simples\bin\Debug\net10.0\juros-simples.exe
+C:\Users\sandr\OneDrive\Área de Trabalho\Brenda\SENAI\juros-simples\bin\Debug\net10.0\juros-simples.deps.json
+C:\Users\sandr\OneDrive\Área de Trabalho\Brenda\SENAI\juros-simples\bin\Debug\net10.0\juros-simples.runtimeconfig.json
+C:\Users\sandr\OneDrive\Área de Trabalho\Brenda\SENAI\juros-simples\bin\Debug\net10.0\juros-simples.dll
+C:\Users\sandr\OneDrive\Área de Trabalho\Brenda\SENAI\juros-simples\bin\Debug\net10.0\juros-simples.pdb
+C:\Users\sandr\OneDrive\Área de Trabalho\Brenda\SENAI\juros-simples\obj\Debug\net10.0\juros-simples.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sandr\OneDrive\Área de Trabalho\Brenda\SENAI\juros-simples\obj\Debug\net10.0\juros-simples.AssemblyInfoInputs.cache
+C:\Users\sandr\OneDrive\Área de Trabalho\Brenda\SENAI\juros-simples\obj\Debug\net10.0\juros-simples.AssemblyInfo.cs
+C:\Users\sandr\OneDrive\Área de Trabalho\Brenda\SENAI\juros-simples\obj\Debug\net10.0\juros-simples.csproj.CoreCompileInputs.cache
+C:\Users\sandr\OneDrive\Área de Trabalho\Brenda\SENAI\juros-simples\obj\Debug\net10.0\juros-simples.dll
+C:\Users\sandr\OneDrive\Área de Trabalho\Brenda\SENAI\juros-simples\obj\Debug\net10.0\refint\juros-simples.dll
+C:\Users\sandr\OneDrive\Área de Trabalho\Brenda\SENAI\juros-simples\obj\Debug\net10.0\juros-simples.pdb
+C:\Users\sandr\OneDrive\Área de Trabalho\Brenda\SENAI\juros-simples\obj\Debug\net10.0\juros-simples.genruntimeconfig.cache
+C:\Users\sandr\OneDrive\Área de Trabalho\Brenda\SENAI\juros-simples\obj\Debug\net10.0\ref\juros-simples.dll
