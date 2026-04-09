@@ -1,0 +1,14 @@
+C:\Users\sandr\OneDrive\Área de Trabalho\Brenda\SENAI\area\bin\Debug\net10.0\area.exe
+C:\Users\sandr\OneDrive\Área de Trabalho\Brenda\SENAI\area\bin\Debug\net10.0\area.deps.json
+C:\Users\sandr\OneDrive\Área de Trabalho\Brenda\SENAI\area\bin\Debug\net10.0\area.runtimeconfig.json
+C:\Users\sandr\OneDrive\Área de Trabalho\Brenda\SENAI\area\bin\Debug\net10.0\area.dll
+C:\Users\sandr\OneDrive\Área de Trabalho\Brenda\SENAI\area\bin\Debug\net10.0\area.pdb
+C:\Users\sandr\OneDrive\Área de Trabalho\Brenda\SENAI\area\obj\Debug\net10.0\area.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sandr\OneDrive\Área de Trabalho\Brenda\SENAI\area\obj\Debug\net10.0\area.AssemblyInfoInputs.cache
+C:\Users\sandr\OneDrive\Área de Trabalho\Brenda\SENAI\area\obj\Debug\net10.0\area.AssemblyInfo.cs
+C:\Users\sandr\OneDrive\Área de Trabalho\Brenda\SENAI\area\obj\Debug\net10.0\area.csproj.CoreCompileInputs.cache
+C:\Users\sandr\OneDrive\Área de Trabalho\Brenda\SENAI\area\obj\Debug\net10.0\area.dll
+C:\Users\sandr\OneDrive\Área de Trabalho\Brenda\SENAI\area\obj\Debug\net10.0\refint\area.dll
+C:\Users\sandr\OneDrive\Área de Trabalho\Brenda\SENAI\area\obj\Debug\net10.0\area.pdb
+C:\Users\sandr\OneDrive\Área de Trabalho\Brenda\SENAI\area\obj\Debug\net10.0\area.genruntimeconfig.cache
+C:\Users\sandr\OneDrive\Área de Trabalho\Brenda\SENAI\area\obj\Debug\net10.0\ref\area.dll
