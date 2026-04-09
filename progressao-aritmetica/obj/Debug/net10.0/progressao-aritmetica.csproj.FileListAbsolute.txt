@@ -1,0 +1,14 @@
+C:\Users\sandr\OneDrive\Área de Trabalho\Brenda\SENAI\progressao-aritmetica\bin\Debug\net10.0\progressao-aritmetica.exe
+C:\Users\sandr\OneDrive\Área de Trabalho\Brenda\SENAI\progressao-aritmetica\bin\Debug\net10.0\progressao-aritmetica.deps.json
+C:\Users\sandr\OneDrive\Área de Trabalho\Brenda\SENAI\progressao-aritmetica\bin\Debug\net10.0\progressao-aritmetica.runtimeconfig.json
+C:\Users\sandr\OneDrive\Área de Trabalho\Brenda\SENAI\progressao-aritmetica\bin\Debug\net10.0\progressao-aritmetica.dll
+C:\Users\sandr\OneDrive\Área de Trabalho\Brenda\SENAI\progressao-aritmetica\bin\Debug\net10.0\progressao-aritmetica.pdb
+C:\Users\sandr\OneDrive\Área de Trabalho\Brenda\SENAI\progressao-aritmetica\obj\Debug\net10.0\progressao-aritmetica.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sandr\OneDrive\Área de Trabalho\Brenda\SENAI\progressao-aritmetica\obj\Debug\net10.0\progressao-aritmetica.AssemblyInfoInputs.cache
+C:\Users\sandr\OneDrive\Área de Trabalho\Brenda\SENAI\progressao-aritmetica\obj\Debug\net10.0\progressao-aritmetica.AssemblyInfo.cs
+C:\Users\sandr\OneDrive\Área de Trabalho\Brenda\SENAI\progressao-aritmetica\obj\Debug\net10.0\progressao-aritmetica.csproj.CoreCompileInputs.cache
+C:\Users\sandr\OneDrive\Área de Trabalho\Brenda\SENAI\progressao-aritmetica\obj\Debug\net10.0\progressao-aritmetica.dll
+C:\Users\sandr\OneDrive\Área de Trabalho\Brenda\SENAI\progressao-aritmetica\obj\Debug\net10.0\refint\progressao-aritmetica.dll
+C:\Users\sandr\OneDrive\Área de Trabalho\Brenda\SENAI\progressao-aritmetica\obj\Debug\net10.0\progressao-aritmetica.pdb
+C:\Users\sandr\OneDrive\Área de Trabalho\Brenda\SENAI\progressao-aritmetica\obj\Debug\net10.0\progressao-aritmetica.genruntimeconfig.cache
+C:\Users\sandr\OneDrive\Área de Trabalho\Brenda\SENAI\progressao-aritmetica\obj\Debug\net10.0\ref\progressao-aritmetica.dll
