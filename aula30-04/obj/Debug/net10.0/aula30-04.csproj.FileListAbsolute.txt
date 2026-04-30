@@ -1,0 +1,14 @@
+C:\Users\dev\Desktop\aprendendocsharp\aula30-04\obj\Debug\net10.0\aula30-04.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dev\Desktop\aprendendocsharp\aula30-04\obj\Debug\net10.0\aula30-04.AssemblyInfoInputs.cache
+C:\Users\dev\Desktop\aprendendocsharp\aula30-04\obj\Debug\net10.0\aula30-04.AssemblyInfo.cs
+C:\Users\dev\Desktop\aprendendocsharp\aula30-04\obj\Debug\net10.0\aula30-04.csproj.CoreCompileInputs.cache
+C:\Users\dev\Desktop\aprendendocsharp\aula30-04\bin\Debug\net10.0\aula30-04.exe
+C:\Users\dev\Desktop\aprendendocsharp\aula30-04\bin\Debug\net10.0\aula30-04.deps.json
+C:\Users\dev\Desktop\aprendendocsharp\aula30-04\bin\Debug\net10.0\aula30-04.runtimeconfig.json
+C:\Users\dev\Desktop\aprendendocsharp\aula30-04\bin\Debug\net10.0\aula30-04.dll
+C:\Users\dev\Desktop\aprendendocsharp\aula30-04\bin\Debug\net10.0\aula30-04.pdb
+C:\Users\dev\Desktop\aprendendocsharp\aula30-04\obj\Debug\net10.0\aula30-04.dll
+C:\Users\dev\Desktop\aprendendocsharp\aula30-04\obj\Debug\net10.0\refint\aula30-04.dll
+C:\Users\dev\Desktop\aprendendocsharp\aula30-04\obj\Debug\net10.0\aula30-04.pdb
+C:\Users\dev\Desktop\aprendendocsharp\aula30-04\obj\Debug\net10.0\aula30-04.genruntimeconfig.cache
+C:\Users\dev\Desktop\aprendendocsharp\aula30-04\obj\Debug\net10.0\ref\aula30-04.dll
